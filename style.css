@@ -1,0 +1,13 @@
+header{
+    height: 10px;
+    background: #e2eff5;
+    width: 100%;
+}
+.main-row{
+    height: 500px;
+}
+
+h1, h2{
+    color: #00BFFF;
+}
+
